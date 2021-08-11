@@ -1,0 +1,3 @@
+- Css implementation from publisher side that affects creatives 
+- Import errors (dont put plugins to phaistos scripts)
+- Scripts with async-defer
